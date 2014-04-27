@@ -1,0 +1,27 @@
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\bin\Debug\SocialKits.exe.config
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\bin\Debug\SocialKits.exe
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\bin\Debug\SocialKits.pdb
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\bin\Debug\Facebook.dll
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\bin\Debug\Facebook.xml
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.csprojResolveAssemblyReference.cache
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.Properties.Resources.resources
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.csproj.GenerateResource.Cache
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.exe
+c:\users\abdo\documents\visual studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.pdb
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.Main.resources
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.Post.resources
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.Login.resources
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\bin\Debug\Facebook.dll
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\bin\Debug\Facebook.xml
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.csprojResolveAssemblyReference.cache
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialKits.csproj.GenerateResource.Cache
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\bin\Debug\SocialMe.exe.config
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\bin\Debug\SocialMe.exe
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\bin\Debug\SocialMe.pdb
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialMe.Properties.Resources.resources
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialMe.exe
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialMe.pdb
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialMe.AntiSpam.resources
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialMe.Main.resources
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialMe.Post.resources
+D:\Projects 21-4\Visual Studio 2013\Projects\SocialKits\SocialKits\obj\Debug\SocialMe.Login.resources
