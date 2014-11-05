@@ -119,7 +119,7 @@ namespace SocialMe
             //Posting to the user selected Groups
             for (int i = 0; i < GroupCb.Items.Count; i++)
             {
-                if (GroupCb.GetSelected(i))
+                if (GroupCb.GetItemChecked(i))
                 {
                     toolStripStatusLabel1.Text = "Posting To Group " + Groups[i].Groupname;
                     await fb.PostTaskAsync("/" + Groups[i].GroupID + "/feed", args);
